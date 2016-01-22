@@ -1,6 +1,12 @@
 # rusterize
 A currated list of awesome tools and packages for the Rust programming language
 
+## Tools
+  - [rustfmt](https://github.com/rust-lang-nursery/rustfmt)
+  - [clippy](https://github.com/Manishearth/rust-clippy)
+  - [cargo-extras](https://github.com/kbknapp/cargo-extras)
+  - [cargo-clone](https://github.com/JanLikar/cargo-clone)
+
 ## CLI
   - [docopt](https://github.com/docopt/docopt.rs)
   - [getopts](https://github.com/rust-lang-nursery/getopts)
