@@ -11,18 +11,18 @@ A currated list of awesome tools and packages for the Rust programming language
   - [Misc](#misc)
 
 ## Tools
-  - [rustfmt](https://github.com/rust-lang-nursery/rustfmt)
-  - [clippy](https://github.com/Manishearth/rust-clippy)
-  - [cargo-extras](https://github.com/kbknapp/cargo-extras)
+  - [rustfmt](https://github.com/rust-lang-nursery/rustfmt) -- A tool for formatting Rust code
+  - [Clippy](https://github.com/Manishearth/rust-clippy)
+  - [cargo-extras](https://github.com/kbknapp/cargo-extras) -- A collection of useful [Cargo subcommands](https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands)
   - [cargo-clone](https://github.com/JanLikar/cargo-clone)
 
 ## CLI
-  - [docopt](https://github.com/docopt/docopt.rs)
+  - [docopt](https://github.com/docopt/docopt.rs) -- A command line argument parsing library
   - [getopts](https://github.com/rust-lang-nursery/getopts)
   - [term](https://github.com/Stebalien/term)
 
 ## Networking
-  - [hyper](https://github.com/hyperium/hyper)
+  - [hyper](https://github.com/hyperium/hyper) -- An HTTP library
 
 ## Logging
   - [log and env_logger](https://github.com/rust-lang-nursery/log)
@@ -34,11 +34,11 @@ A currated list of awesome tools and packages for the Rust programming language
 ## Serialization
   - [rustc-serialize](https://github.com/rust-lang-nursery/rustc-serialize)
   - [Serde](https://github.com/serde-rs/serde)
-  - [toml](https://github.com/alexcrichton/toml-rs)
+  - [Toml](https://github.com/alexcrichton/toml-rs) -- A TOML encoding/decoding library
 
 ## Multithreading
-  - [Crossbeam](https://github.com/aturon/crossbeam): Support for parallelism and low-level concurrency
-  - [Rayon](https://github.com/nikomatsakis/rayon): A data parallelism library
+  - [Crossbeam](https://github.com/aturon/crossbeam) -- Support for parallelism and low-level concurrency
+  - [Rayon](https://github.com/nikomatsakis/rayon) -- A data parallelism library
 
 ## Misc
   - [libc](https://github.com/rust-lang-nursery/libc)
