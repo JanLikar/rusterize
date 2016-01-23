@@ -1,6 +1,15 @@
 # rusterize
 A currated list of awesome tools and packages for the Rust programming language
 
+  - [Tools](#tools)
+  - [CLI](#cli)
+  - [Networking](#networking)
+  - [Logging](#logging)
+  - [Filesystem](#filesystem)
+  - [Serialization](#serialization)
+  - [Multithreading](#multithreading)
+  - [Misc](#misc)
+
 ## Tools
   - [rustfmt](https://github.com/rust-lang-nursery/rustfmt)
   - [clippy](https://github.com/Manishearth/rust-clippy)
@@ -21,7 +30,6 @@ A currated list of awesome tools and packages for the Rust programming language
 ## Filesystem
   - [walkdir](https://github.com/BurntSushi/walkdir)
   - [tempdir](https://github.com/rust-lang-nursery/tempdir)
-
 
 ## Serialization
   - [rustc-serialize](https://github.com/rust-lang-nursery/rustc-serialize)
