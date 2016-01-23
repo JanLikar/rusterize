@@ -29,7 +29,8 @@ A currated list of awesome tools and packages for the Rust programming language
   - [toml](https://github.com/alexcrichton/toml-rs)
 
 ## Multithreading
-  - [crossbeam](https://github.com/aturon/crossbeam)
+  - [Crossbeam](https://github.com/aturon/crossbeam): Support for parallelism and low-level concurrency
+  - [Rayon](https://github.com/nikomatsakis/rayon): A data parallelism library
 
 ## Misc
   - [libc](https://github.com/rust-lang-nursery/libc)
