@@ -22,6 +22,7 @@ A currated list of awesome tools and packages for the Rust programming language
 
 ## CLI
   - [docopt](https://github.com/docopt/docopt.rs) - A command line argument parsing library
+  - [clap-rs](https://github.com/kbknapp/clap-rs)
   - [getopts](https://github.com/rust-lang-nursery/getopts)
   - [term](https://github.com/Stebalien/term)
 
